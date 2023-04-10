@@ -1,4 +1,4 @@
-## Bem vindo! Eu sou Marco Gitti.
+## Bem-vindo! Eu sou Marco Gitti.
 
 - 💻 Sou estudante de graduação em Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente faço graduação no curso de Análise e Desenvolvimento de Sistemas na Fatec Jales.
