@@ -23,5 +23,5 @@
 ##
  
 <div> 
-  <a href="https://br.linkedin.com/in/marco-gitti" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="50" width="60"></a>  
+  <a href="https://br.linkedin.com/in/marco-gitti" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="60" width="40"></a>  
 </div>
