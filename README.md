@@ -2,7 +2,6 @@
 
 - 💻 Estudante de graduação em Análise e Desenvolvimento de Sistemas.
 - 📚 Atualmente faço graduação no curso de Análise e Desenvolvimento de Sistemas na Fatec Jales.
-- 🔎 Procurando por estágio na área de tecnologia.
 - 👨🏻‍💻 Estudante na Fatec Jales.
 
 <div align="center">
