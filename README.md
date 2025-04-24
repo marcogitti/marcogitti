@@ -1,8 +1,7 @@
 ## Bem-vindo(a)! Eu sou Marco Gitti.
 
-- 💻 Estudante de graduação em Análise e Desenvolvimento de Sistemas.
-- 📚 Atualmente faço graduação no curso de Análise e Desenvolvimento de Sistemas na Fatec Jales.
-- 👨🏻‍💻 Estudante na Fatec Jales.
+- 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas - ADS-AMS.
+- 🎓 Sou formado como Técnico em Desenvolvimento de Sistemas.
 
 <div align="center">
   <a href="https://github.com/marcogitti/">
